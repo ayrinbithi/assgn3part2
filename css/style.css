@@ -1,0 +1,33 @@
+.container{
+	width: 1140px;
+	margin: auto;
+
+}
+.section-1{
+	width: 100%;
+}
+.section-1 h1{
+  	text-align: center;
+}
+.section-1 p{
+	text-align: center;
+	font-size: 18px;
+	line-height: 2;
+}
+
+
+.new-section{
+width: 1200px;
+margin: 0 auto;
+padding-top: 100px;
+}
+
+.img-container {
+  float: left;
+  width: 400px;
+  padding-left: 20px;
+}
+
+.img-container img{
+	align-items: center;
+}
